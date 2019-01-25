@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mobile Database</string>
+    <string name="sample_phone_name">Redmi Note 6 Pro (Black, 64 GB) (6 GB RAM)</string>
+    <string name="sample_ram">RAM : 4 GB</string>
+    <string-array name="mobile_rams">
+        <item>Select Ram</item>
+        <item>1 GB</item>
+        <item>2 GB</item>
+        <item>3 GB</item>
+        <item>4 GB</item>
+        <item>6 GB</item>
+        <item>8 GB</item>
+    </string-array>
+    <string-array name="mobile_processors">
+        <item>Select Processor</item>
+        <item>Snapdragon 400</item>
+        <item>Snapdragon 600</item>
+        <item>Snapdragon 800</item>
+        <item>Snapdragon 801</item>
+        <item>MT6750</item>
+        <item>Exynos 5420</item>
+    </string-array>
+</resources>
