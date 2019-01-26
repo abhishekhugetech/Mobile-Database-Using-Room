@@ -2,6 +2,7 @@ package com.epiclancers.intrototheroomlibrary;
 
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
+import android.os.Handler;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,7 +12,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.EditText;
 import android.widget.Spinner;
-import android.widget.Toast;
 
 import com.epiclancers.intrototheroomlibrary.database.Mobile;
 import com.epiclancers.intrototheroomlibrary.ui.adapters.MobileAdapters;
